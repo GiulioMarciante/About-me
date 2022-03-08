@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @undeermind
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning c++, unreal engine, blender3d
+- 👋 Hi, I’m Giulio
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c, python
 - 💞️ I’m looking to collaborate on something that i can use as training ground ;)
 - 📫 How to reach me on instagram @kolz.96
 
